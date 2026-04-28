@@ -92,8 +92,8 @@
 	<properties>
 		<spring.version>5.0.2.RELEASE</spring.version>
         <maven-surefire-plugin.version>2.19.1</maven-surefire-plugin.version>
-		<junit.version>4.12</junit.version>
-		<jackson.library>2.9.2</jackson.library>
+		<junit.version>4.13.1</junit.version>
+		<jackson.library>2.12.7.1</jackson.library>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<failOnMissingWebXml>false</failOnMissingWebXml>
