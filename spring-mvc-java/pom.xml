@@ -293,7 +293,7 @@
     <properties>
         <!-- Spring -->
         <thymeleaf.version>2.1.5.RELEASE</thymeleaf.version>
-        <jackson.version>2.9.4</jackson.version>
+        <jackson.version>2.12.7.1</jackson.version>
 
         <!-- persistence -->
         <hibernate.version>5.2.5.Final</hibernate.version>
