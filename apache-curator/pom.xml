@@ -14,10 +14,10 @@
     <properties>
         <curator.version>4.0.1</curator.version>
         <zookeeper.version>3.4.11</zookeeper.version>
-        <jackson-databind.version>2.9.4</jackson-databind.version>
+        <jackson-databind.version>2.12.7.1</jackson-databind.version>
 
         <!-- testing -->
-        <assertj.version>3.6.1</assertj.version>
+        <assertj.version>3.27.7</assertj.version>
         <avaitility.version>1.7.0</avaitility.version>
 
     </properties>
