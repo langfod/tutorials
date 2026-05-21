@@ -69,7 +69,7 @@
     <properties>
         <!-- util -->
         <guava.version>19.0</guava.version>
-        <commons-lang3.version>3.5</commons-lang3.version>
+        <commons-lang3.version>3.18.0</commons-lang3.version>
 
         <!-- testing -->
         <powermock.version>1.7.0</powermock.version>
