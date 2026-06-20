@@ -150,7 +150,7 @@
         <mysql-connector-java.version>5.1.38</mysql-connector-java.version>
 
         <!-- marshalling -->
-        <jackson.version>2.8.5</jackson.version>
+        <jackson.version>2.12.7.1</jackson.version>
 
         <!-- various -->
         <hibernate-validator.version>5.1.3.Final</hibernate-validator.version>
@@ -160,8 +160,8 @@
 
         <!-- util -->
         <guava.version>20.0</guava.version>
-        <commons-lang3.version>3.5</commons-lang3.version>
-        <commons-io.version>2.5</commons-io.version>
+        <commons-lang3.version>3.18.0</commons-lang3.version>
+        <commons-io.version>2.14.0</commons-io.version>
 
         <!-- testing -->
         <mockito.version>2.8.9</mockito.version>
@@ -171,7 +171,7 @@
 
         <rest-assured.version>2.9.0</rest-assured.version>
 
-        <assertj-core.version>3.6.1</assertj-core.version>
+        <assertj-core.version>3.27.7</assertj-core.version>
         <json-schema-validator.version>2.2.6</json-schema-validator.version>
         <json-path.version>3.0.1</json-path.version>
 
