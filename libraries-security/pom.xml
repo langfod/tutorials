@@ -114,7 +114,7 @@
 
     <properties>
         <spring-boot.repackage.skip>true</spring-boot.repackage.skip> <!--Skip repackaging for multiple main classes-->
-        <bouncycastle.version>1.68</bouncycastle.version>
+        <bouncycastle.version>1.70</bouncycastle.version>
         <jsch.version>0.2.18</jsch.version>
         <apache-mina.version>2.12.1</apache-mina.version>
         <apache-sftp.version>2.12.1</apache-sftp.version>

@@ -117,11 +117,11 @@
 
     <properties>
         <spring-boot.repackage.skip>true</spring-boot.repackage.skip> <!--Skip repackaging for multiple main classes-->
-        <bouncycastle.version>1.76</bouncycastle.version>
+        <bouncycastle.version>1.84</bouncycastle.version>
         <jasypt.version>1.9.2</jasypt.version>
         <passay.version>1.3.1</passay.version>
         <cryptacular.version>1.2.2</cryptacular.version>
-        <tink.version>1.2.2</tink.version>
+        <tink.version>1.22.0</tink.version>
         <sshj.version>0.38.0</sshj.version>
         <apache-scp.version>2.12.1</apache-scp.version>
         <apache-sftp.version>2.12.1</apache-sftp.version>
