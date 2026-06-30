@@ -269,13 +269,13 @@
         <datanucleus-maven-plugin.version>6.0.0-release</datanucleus-maven-plugin.version>
         <datanucleus-xml.version>6.0.0-release</datanucleus-xml.version>
         <datanucleus-jdo-query.version>6.0.1</datanucleus-jdo-query.version>
-        <spring.version>4.3.8.RELEASE</spring.version>
+        <spring.version>6.1.21</spring.version>
         <spring-mock-mvc.version>3.0.3</spring-mock-mvc.version>
-        <quartz.version>2.3.0</quartz.version>
-        <commons-net.version>3.6</commons-net.version>
+        <quartz.version>2.5.2</quartz.version>
+        <commons-net.version>3.9.0</commons-net.version>
         <resilience4j.version>2.1.0</resilience4j.version>
         <activej.version>6.0-rc2</activej.version>
-        <jackson-databind.version>2.17.0</jackson-databind.version>
+        <jackson-databind.version>2.22.0</jackson-databind.version>
     </properties>
 
 </project>
