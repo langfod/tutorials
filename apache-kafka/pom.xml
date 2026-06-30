@@ -122,7 +122,7 @@
     </build>
 
     <properties>
-        <jackson.version>2.15.4</jackson.version> <!-- Upgrading to version >= 2.16 breaks tests -->
+        <jackson.version>2.22.0</jackson.version> <!-- Upgrading to version >= 2.16 breaks tests -->
         <kafka.version>3.9.0</kafka.version>
         <testcontainers-kafka.version>1.19.3</testcontainers-kafka.version>
         <testcontainers-jupiter.version>1.15.3</testcontainers-jupiter.version>
