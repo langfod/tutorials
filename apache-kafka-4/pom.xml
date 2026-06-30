@@ -103,7 +103,7 @@
         <kafka.version>3.9.0</kafka.version>
         <testcontainers-kafka.version>1.19.3</testcontainers-kafka.version>
         <testcontainers-jupiter.version>1.19.3</testcontainers-jupiter.version>
-        <jackson.databind.version>2.15.2</jackson.databind.version>
+        <jackson.databind.version>2.22.0</jackson.databind.version>
         <awaitility.version>3.0.0</awaitility.version>
     </properties>
 
