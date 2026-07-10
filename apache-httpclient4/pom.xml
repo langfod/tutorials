@@ -236,8 +236,8 @@
     </profiles>
 
     <properties>
-        <spring.version>5.3.28</spring.version>
-        <spring-security.version>5.7.3</spring-security.version>
+        <spring.version>6.1.20</spring.version>
+        <spring-security.version>6.5.11</spring-security.version>
         <spring-oxm.version>6.1.4</spring-oxm.version>
         <!-- util -->
         <commons-codec.version>1.16.0</commons-codec.version>
