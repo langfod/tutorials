@@ -110,7 +110,7 @@
         <jxl.version>2.6.12</jxl.version>
         <poitl.version>1.12.2</poitl.version>
         <logback-classic.version>1.5.6</logback-classic.version>
-        <logback-core.version>1.5.6</logback-core.version>
+        <logback-core.version>1.5.34</logback-core.version>
         <jmh.version>1.37</jmh.version>
         <log4j.version>2.23.1</log4j.version>
         <spring.web.version>3.5.7</spring.web.version>
